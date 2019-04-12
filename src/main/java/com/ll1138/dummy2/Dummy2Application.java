@@ -21,6 +21,10 @@ public class Dummy2Application {
 			p = p + String.valueOf(i);
 		}
 
+		for(int i=0; i< 10; i++) {
+			p = p + String.valueOf(i);
+		}
+
 		System.out.println(p);
 
 	}
